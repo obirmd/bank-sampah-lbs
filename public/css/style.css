@@ -1,0 +1,19 @@
+
+  @media screen and (max-width: 600px) {
+    .poto {
+        display: none;
+    }
+
+    .notelpon {
+        display: none;
+    }
+
+    .join {
+        display: none;
+    }
+
+    .jeniskelamin {
+        display: none;
+    }
+
+  }
